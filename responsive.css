@@ -1,0 +1,599 @@
+/* 
+  ##Device = Desktops
+  ##Screen = 1281px to higher resolution desktops
+*/
+
+@media (min-width: 1281px) {
+  
+    /* this is DRESSES start */
+    #tops{
+        width: 100%; 
+    }
+    /* this is DRESSES end */
+
+    /* this is image one start */
+    #imageone #image1{
+        width: 25%;
+    }
+    #imageone #image2{
+        width: 25%;
+    }
+    #imageone #image3{
+        width: 25%;
+    }
+    #imageone #image4{
+        width: 25%;
+    }
+    /* this is image one end */
+
+    /* this is image two start */
+    #imagetwo #image11{
+        width: 33.3333333%;
+   }
+   #imagetwo #image22{
+        width: 33.3333333%;
+    }
+   #imagetwo #image33{
+        width: 33.3333333%;
+   }
+   /* this is image two end */
+
+   /* this is TRENDING start */
+   #imagethree #image111{
+         width: 25%;
+   }
+   #imagethree #image222{
+         width: 25%;
+   }
+   #imagethree #image333{
+         width: 25%;
+   }
+   #imagethree #image444{
+         width: 25%;
+   }
+   /* this is TRENDING end */
+
+   /* this is HAPPY start */
+#happy{
+    width: 100%;
+}
+/* this is HAPPY end */
+
+/* this is image three start */
+#imagefive #img1{
+    width: 20%;
+}
+#imagefive #img2{
+    width: 20%;
+}
+#imagefive #img3{
+    width: 20%;
+}
+#imagefive #img4{
+    width: 20%;
+}
+#imagefive #img5{
+    width: 20%;
+}
+/* this is image three end */
+
+/* this is footer start */
+#footer #footer1{
+    width: 25%;
+}
+#footer #footer2{
+    width: 25%;
+}
+#footer #footer3{
+    width: 25%;
+}
+#footer #footer4{
+    width: 25%;
+}
+
+#copy{
+    width: 100%;
+}
+/* this is footer end */
+    
+  }
+  
+  /* 
+    ##Device = Laptops, Desktops
+    ##Screen = B/w 1025px to 1280px
+  */
+  
+  @media (min-width: 1025px) and (max-width: 1280px) {
+    
+    /* this is DRESSES start */
+    #tops{
+        width: 100%; 
+    }
+    /* this is DRESSES end */
+
+    /* this is image one start */
+    #imageone #image1{
+        width: 25%;
+    }
+    #imageone #image2{
+        width: 25%;
+    }
+    #imageone #image3{
+        width: 25%;
+    }
+    #imageone #image4{
+        width: 25%;
+    }
+    /* this is image one end */
+
+    /* this is image two start */
+    #imagetwo #image11{
+        width: 33.3333333%;
+   }
+   #imagetwo #image22{
+        width: 33.3333333%;
+    }
+   #imagetwo #image33{
+        width: 33.3333333%;
+   }
+   /* this is image two end */
+
+   /* this is TRENDING start */
+#imagethree #image111{
+    width: 25%;
+}
+#imagethree #image222{
+    width: 25%;
+}
+#imagethree #image333{
+    width: 25%;
+}
+#imagethree #image444{
+    width: 25%;
+}
+/* this is TRENDING end */
+
+/* this is HAPPY start */
+#happy{
+    width: 100%;
+}
+/* this is HAPPY end */
+
+/* this is image three start */
+#imagefive #img1{
+    width: 20%;
+}
+#imagefive #img2{
+    width: 20%;
+}
+#imagefive #img3{
+    width: 20%;
+}
+#imagefive #img4{
+    width: 20%;
+}
+#imagefive #img5{
+    width: 20%;
+}
+/* this is image three end */
+
+/* this is footer start */
+#footer #footer1{
+    width: 25%;
+}
+#footer #footer2{
+    width: 25%;
+}
+#footer #footer3{
+    width: 25%;
+}
+#footer #footer4{
+    width: 25%;
+}
+
+#copy{
+    width: 100%;
+}
+/* this is footer end */
+    
+  }
+  
+  /* 
+    ##Device = Tablets, Ipads (portrait)
+    ##Screen = B/w 768px to 1024px
+  */
+  
+  @media (min-width: 768px) and (max-width: 1024px) {
+    
+    /* this is DRESSES start */
+    #tops{
+        width: 100%; 
+    }
+    /* this is DRESSES end */
+
+    /* this is image one start */
+    #imageone #image1{
+        width: 25%;
+    }
+    #imageone #image2{
+        width: 25%;
+    }
+    #imageone #image3{
+        width: 25%;
+    }
+    #imageone #image4{
+        width: 25%;
+    }
+    /* this is image one end */
+
+    /* this is image two start */
+    #imagetwo #image11{
+        width: 33.3333333%;
+   }
+   #imagetwo #image22{
+        width: 33.3333333%;
+    }
+   #imagetwo #image33{
+        width: 33.3333333%;
+   }
+   /* this is image two end */
+
+   /* this is TRENDING start */
+#imagethree #image111{
+    width: 25%;
+}
+#imagethree #image222{
+    width: 25%;
+}
+#imagethree #image333{
+    width: 25%;
+}
+#imagethree #image444{
+    width: 25%;
+}
+/* this is TRENDING end */
+
+/* this is HAPPY start */
+#happy{
+    width: 100%;
+}
+/* this is HAPPY end */
+
+/* this is image three start */
+#imagefive #img1{
+    width: 20%;
+}
+#imagefive #img2{
+    width: 20%;
+}
+#imagefive #img3{
+    width: 20%;
+}
+#imagefive #img4{
+    width: 20%;
+}
+#imagefive #img5{
+    width: 20%;
+}
+/* this is image three end */
+
+/* this is footer start */
+#footer #footer1{
+    width: 25%;
+}
+#footer #footer2{
+    width: 25%;
+}
+#footer #footer3{
+    width: 25%;
+}
+#footer #footer4{
+    width: 25%;
+}
+
+#copy{
+    width: 100%;
+}
+/* this is footer end */
+    
+  }
+  
+  /* 
+    ##Device = Tablets, Ipads (landscape)
+    ##Screen = B/w 768px to 1024px
+  */
+  
+  @media (min-width: 768px) and (max-width: 1024px) and (orientation: landscape) {
+    
+    /* this is DRESSES start */
+    #tops{
+        width: 100%; 
+    }
+    /* this is DRESSES end */
+
+    /* this is image one start */
+    #imageone #image1{
+        width: 25%;
+    }
+    #imageone #image2{
+        width: 25%;
+    }
+    #imageone #image3{
+        width: 25%;
+    }
+    #imageone #image4{
+        width: 25%;
+    }
+    /* this is image one end */
+
+    /* this is image two start */
+    #imagetwo #image11{
+        width: 33.3333333%;
+   }
+   #imagetwo #image22{
+        width: 33.3333333%;
+    }
+   #imagetwo #image33{
+        width: 33.3333333%;
+   }
+   /* this is image two end */
+
+   /* this is TRENDING start */
+#imagethree #image111{
+    width: 25%;
+}
+#imagethree #image222{
+    width: 25%;
+}
+#imagethree #image333{
+    width: 25%;
+}
+#imagethree #image444{
+    width: 25%;
+}
+/* this is TRENDING end */
+
+/* this is HAPPY start */
+#happy{
+    width: 100%;
+}
+/* this is HAPPY end */
+
+/* this is image three start */
+#imagefive #img1{
+    width: 20%;
+}
+#imagefive #img2{
+    width: 20%;
+}
+#imagefive #img3{
+    width: 20%;
+}
+#imagefive #img4{
+    width: 20%;
+}
+#imagefive #img5{
+    width: 20%;
+}
+/* this is image three end */
+
+/* this is footer start */
+#footer #footer1{
+    width: 25%;
+}
+#footer #footer2{
+    width: 25%;
+}
+#footer #footer3{
+    width: 25%;
+}
+#footer #footer4{
+    width: 25%;
+}
+
+#copy{
+    width: 100%;
+}
+/* this is footer end */
+    
+  }
+  
+  /* 
+    ##Device = Low Resolution Tablets, Mobiles (Landscape)
+    ##Screen = B/w 481px to 767px
+  */
+  
+  @media (min-width: 481px) and (max-width: 767px) {
+    
+    /* this is DRESSES start */
+    #tops{
+        width: 100%; 
+    }
+    /* this is DRESSES end */
+
+    /* this is image one start */
+    #imageone #image1{
+        width: 100%;
+    }
+    #imageone #image2{
+        width: 100%;
+    }
+    #imageone #image3{
+        width: 100%;
+    }
+    #imageone #image4{
+        width: 100%;
+    }
+    /* this is image one end */
+
+    /* this is image two start */
+    #imagetwo #image11{
+        width: 100%;
+   }
+   #imagetwo #image22{
+        width: 100%;
+    }
+   #imagetwo #image33{
+        width: 100%;
+   }
+   /* this is image two end */
+
+   /* this is TRENDING start */
+#imagethree #image111{
+    width: 100%;
+}
+#imagethree #image222{
+    width: 100%;
+}
+#imagethree #image333{
+    width: 100%;
+}
+#imagethree #image444{
+    width: 100%;
+}
+/* this is TRENDING end */
+
+/* this is HAPPY start */
+#happy{
+    width: 100%;
+}
+/* this is HAPPY end */
+
+/* this is image three start */
+#imagefive #img1{
+    width: 100%;
+}
+#imagefive #img2{
+    width: 100%;
+}
+#imagefive #img3{
+    width: 100%;
+}
+#imagefive #img4{
+    width: 100%;
+}
+#imagefive #img5{
+    width: 100%;
+}
+/* this is image three end */
+
+/* this is footer start */
+#footer #footer1{
+    width: 100%;
+}
+#footer #footer2{
+    width: 100%;
+}
+#footer #footer3{
+    width: 100%;
+}
+#footer #footer4{
+    width: 100%;
+}
+
+#copy{
+    width: 100%;
+}
+/* this is footer end */
+    
+  }
+  
+  /* 
+    ##Device = Most of the Smartphones Mobiles (Portrait)
+    ##Screen = B/w 320px to 479px
+  */
+  
+  @media (min-width: 320px) and (max-width: 480px) {
+    
+    /* this is DRESSES start */
+    #tops{
+        width: 100%; 
+    }
+    /* this is DRESSES end */
+
+    /* this is image one start */
+    #imageone #image1{
+        width: 100%;
+    }
+    #imageone #image2{
+        width: 100%;
+    }
+    #imageone #image3{
+        width: 100%;
+    }
+    #imageone #image4{
+        width: 100%;
+    }
+    /* this is image one end */
+
+    /* this is image two start */
+    #imagetwo #image11{
+         width: 100%;
+    }
+    #imagetwo #image22{
+         width: 100%;
+     }
+    #imagetwo #image33{
+         width: 100%;
+    }
+    /* this is image two end */
+
+    /* this is TRENDING start */
+#imagethree #image111{
+    width: 100%;
+}
+#imagethree #image222{
+    width: 100%;
+}
+#imagethree #image333{
+    width: 100%;
+}
+#imagethree #image444{
+    width: 100%;
+}
+/* this is TRENDING end */
+
+/* this is HAPPY start */
+#happy{
+    width: 100%;
+}
+/* this is HAPPY end */
+
+/* this is image three start */
+#imagefive #img1{
+    width: 100%;
+}
+#imagefive #img2{
+    width: 100%;
+}
+#imagefive #img3{
+    width: 100%;
+}
+#imagefive #img4{
+    width: 100%;
+}
+#imagefive #img5{
+    width: 100%;
+}
+/* this is image three end */
+
+/* this is footer start */
+#footer #footer1{
+    width: 100%;
+}
+#footer #footer2{
+    width: 100%;
+}
+#footer #footer3{
+    width: 100%;
+}
+#footer #footer4{
+    width: 100%;
+}
+
+#copy{
+    width: 100%;
+}
+/* this is footer end */
+    
+  }
